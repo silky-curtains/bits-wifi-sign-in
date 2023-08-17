@@ -34,7 +34,7 @@ To be able to execute your custom command from anywhere, move it to a directory 
 $ mv bits-login /usr/local/bin
 ```
 
-Now you should be able to connect to the wifi by running
+Now you should be able to login to the wifi (as described in Basic Usage) by running:
 
 ```
 $ bits-login
