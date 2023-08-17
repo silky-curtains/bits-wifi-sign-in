@@ -17,7 +17,7 @@ $ bits-login
 First, clone the repository to any directory of your choie.
 
 ```
-$ git clone 
+$ git clone https://github.com/silky-curtains/bits-wifi-sign-in
 ```
 
 Open the file `bits-login.sh` in the editor of your choice, and change the variables `BITS_USERNAME` and `BITS_PASSWORD` to match your own credentials. (the provided credentials are for example purposes and won't work, so make sure you do this step)
